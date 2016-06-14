@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "aliez-mime@*",
+      "/var/host/media/removable/UNTITLED/dog-chat"
+    ]
+  ],
+  "_cnpm_publish_time": 1460343079766,
+  "_from": "aliez-mime@*",
+  "_id": "aliez-mime@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/aliez-mime",
+  "_nodeVersion": "5.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/aliez-mime-1.0.0.tgz_1460343079336_0.7282330167945474"
+  },
+  "_npmUser": {
+    "email": "wallax@126.com",
+    "name": "wallax"
+  },
+  "_npmVersion": "3.5.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "aliez-mime",
+    "raw": "aliez-mime@*",
+    "rawSpec": "*",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/aliez-mime/download/aliez-mime-1.0.0.tgz",
+  "_shasum": "553495cc56ef26807bcb0e65c30f112f5ae2f7ea",
+  "_shrinkwrap": null,
+  "_spec": "aliez-mime@*",
+  "_where": "/var/host/media/removable/UNTITLED/dog-chat",
+  "author": {
+    "name": "wallax"
+  },
+  "dependencies": {
+    "aliez": "*",
+    "mimez": "*"
+  },
+  "description": "aliez mimetype midware",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "553495cc56ef26807bcb0e65c30f112f5ae2f7ea",
+    "size": 5202,
+    "tarball": "http://registry.npm.taobao.org/aliez-mime/download/aliez-mime-1.0.0.tgz"
+  },
+  "gitHead": "d17b80bacc736ea5aea34e5314daf40c9a5ef0b1",
+  "keywords": [
+    "aliez",
+    "mime",
+    "mimetype",
+    "server"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "wallax@126.com",
+      "name": "wallax"
+    }
+  ],
+  "name": "aliez-mime",
+  "optionalDependencies": {},
+  "publish_time": 1460343079766,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/wallax/aliez-mime.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
